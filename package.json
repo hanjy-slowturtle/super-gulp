@@ -13,11 +13,11 @@
     "@babel/core": "^7.15.5",
     "@babel/preset-env": "^7.15.6",
     "@babel/register": "^7.15.3",
-    "gulp": "^4.0.2",
-    "gulp-pug": "^5.0.0",
     "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-image": "^6.2.1",
+    "gulp-pug": "^5.0.0",
     "gulp-webserver": "^0.9.1"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
